@@ -1,20 +1,13 @@
-import './App.css';
-import Header from './components/Header';
-import Search from './components/SearchBar';
-import Footer from './components/Footer';
+// src/App.js
 
-import 'bootstrap/dist/css/bootstrap.min.css';
+import React from 'react';
+import Search from './components/Search';
+import initialDetails from './data/initialDetails';
 
 function App() {
   return (
-    <div>
-      <Header></Header>
-    <body>
-      <Search></Search>
-    </body>
-    <footer>
-      <Footer></Footer>
-    </footer>
+    <div className="tc bg-green ma0 pa4 min-vh-100">
+      <Search details={initialDetails}/>
     </div>
   );
 }
