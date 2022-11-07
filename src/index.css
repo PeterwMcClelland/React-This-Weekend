@@ -27,13 +27,23 @@ header {
 
 /* Search Bar */
 
-.input-group {
-  position: relative;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: stretch;
-  width: 100%;
-  margin-top: 100px;
+.spots-container {
+  display: table-cell;
+  text-align: center;
+}
+
+.f2 {
+    text-align: center;
+    background-color: gray;
+    height: 75px;
+    margin: 0px;
+    font-family: monospace;
+    font-size: xx-large;
+    color: white;
+}
+
+.pa2 {
+  text-align: center;
 }
 
 /* Footer */
@@ -47,7 +57,7 @@ footer {
 /* img */
 
 .spot-img {
-  max-width: 75%;  
+  max-width: 50%;  
   height: auto;  
   border-radius: 10px;
   border: 1px solid white;

@@ -9,9 +9,9 @@ const initialDetails = [
     },
     {
         id: 2,
-        imgPath: "./assets/img/",
+        imgPath: "./assets/img/ParkBlocks.jpeg",
         name: "Park Blocks",
-        address: "",
+        address: "1000 SW Park Ave, Portland, Oregon",
     },
     // {
     //     id: ,

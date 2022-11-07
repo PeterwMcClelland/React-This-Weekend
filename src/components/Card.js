@@ -4,7 +4,7 @@ import React from 'react';
 
 function Card({person}) {
   return(
-    <div className="">
+    <div className="spots-container">
       <img className="spot-img" alt={person.name} src={process.env.PUBLIC_URL + person.imgPath} />
       <div>
         <h2>{person.name}</h2>
