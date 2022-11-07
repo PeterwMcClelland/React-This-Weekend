@@ -40,4 +40,6 @@ header {
 
 footer {
   text-align: center;
+  background-color: thistle;
+  height: 50px;
 }
