@@ -29,8 +29,19 @@ header {
 
 .spots-container {
   display: table-cell;
-  text-align: center;
+    color: white;
+    font-size: larger;
+    margin: 20px;
+    border-radius: 10px;
+    border: solid;
+    text-align: center;
+    background-color: #bdbdbd;
 }
+
+.spot-card {
+  width: auto;
+  display: flex;
+} 
 
 .f2 {
     text-align: center;
@@ -44,6 +55,12 @@ header {
 
 .pa2 {
   text-align: center;
+}
+
+.searchbar {
+  height: 40px;
+  width: 50%;
+  font-size: 16px;
 }
 
 /* Footer */
@@ -61,4 +78,11 @@ footer {
   height: auto;  
   border-radius: 10px;
   border: 1px solid white;
+  margin-top: 10px;
+}
+
+.garamond {
+  background-image: url(../public/assets/img/background.png);
+  height: 1000px;
+  background-size: 100%;
 }
