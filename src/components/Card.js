@@ -8,6 +8,7 @@ function Card({person}) {
       <img className="spot-img" alt={person.name} src={process.env.PUBLIC_URL + person.imgPath} />
       <div>
         <h2>{person.name}</h2>
+        <p>{person.details}</p>
         <p>{person.address}</p>
       </div>
     </div>

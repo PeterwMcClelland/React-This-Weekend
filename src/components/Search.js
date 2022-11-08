@@ -15,11 +15,11 @@ function Search({ details }) {
         person
         .name
         .toLowerCase()
-        .includes(searchField.toLowerCase()) 
-        // person
-        // .email
-        // .toLowerCase()
-        // .includes(searchField.toLowerCase())
+        .includes(searchField.toLowerCase()), 
+        person
+        .details
+        .toLowerCase()
+        .includes(searchField.toLowerCase())
       );
     }
   );
