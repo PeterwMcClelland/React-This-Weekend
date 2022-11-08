@@ -43,6 +43,10 @@ code {
   display: flex;
 } 
 
+.card-text {
+  font-family: monospace;
+}
+
 .f2 {
     text-align: center;
     background-color: gray;

@@ -47,7 +47,7 @@ function Search({ details }) {
   return (
     <section className="garamond">
       <div className="navy georgia ma0 grow">
-        <h2 className="f2">Search Spot</h2>
+        <h2 className="f2">This Weekend</h2>
       </div>
       <div className="pa2">
         <input className="searchbar" type = "search" placeholder = "Ledge, Rail, Manual, Skate Park..." onChange = {handleChange}/>
