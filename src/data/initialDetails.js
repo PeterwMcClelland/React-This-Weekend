@@ -19,6 +19,12 @@ const initialDetails = [
         name: "Burnside Skate Park",
         address: "Address: SE 2nd Ave, Portland, OR 97232",
     },
+    {
+        id: 4,
+        imgPath: "./assets/img/capitalhill9.png",
+        name: "Capital Hill 9",
+        address: "Address: 8401 SW 17th Ave, Portland, OR 97219, USA",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",

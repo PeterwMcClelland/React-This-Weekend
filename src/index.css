@@ -15,7 +15,7 @@ code {
 
 /* Header */
 
-header {
+/* header {
   text-align: center;
   background-color: gray;
   height: 75px;
@@ -23,7 +23,7 @@ header {
   font-family: monospace;
   font-size: x-large;
   color: white;
-}
+} */
 
 /* Search Bar */
 
@@ -51,6 +51,7 @@ header {
     font-family: monospace;
     font-size: xx-large;
     color: white;
+    padding-top: 15px;
 }
 
 .pa2 {
@@ -59,8 +60,11 @@ header {
 
 .searchbar {
   height: 40px;
-  width: 50%;
-  font-size: 16px;
+    width: 50%;
+    font-size: 16px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border: solid 2px rgb(192, 192, 192);
 }
 
 /* Footer */

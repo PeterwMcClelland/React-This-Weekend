@@ -50,12 +50,7 @@ function Search({ details }) {
         <h2 className="f2">Search Spot</h2>
       </div>
       <div className="pa2">
-        <input 
-          className="searchbar"
-          type = "search" 
-          placeholder = "Search Spot" 
-          onChange = {handleChange}
-        />
+        <input className="searchbar" type = "search" placeholder = "Search Spot" onChange = {handleChange}/>
       </div>
       {searchList()}
     </section>
