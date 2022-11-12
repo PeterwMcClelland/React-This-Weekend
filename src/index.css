@@ -28,19 +28,31 @@ code {
 /* Search Bar */
 
 .spots-container {
-  display: table-cell;
+  display: flow-root;
     color: white;
     font-size: larger;
     margin: 20px;
     border-radius: 10px;
+    width: 475px;
     border: solid;
     text-align: center;
+    perspective-origin: center;
     background-color: #bdbdbd;
+    height: fit-content;
+
+}
+
+.scroll {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
 }
 
 .spot-card {
   width: auto;
-  display: flex;
+    grid-template-columns: repeat(2, 1fr);
+    overflow-y: visible;
+    height: 101vh;
+    display: grid;
 } 
 
 .card-text {
