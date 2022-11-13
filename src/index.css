@@ -31,9 +31,11 @@ code {
   display: flow-root;
     color: white;
     font-size: larger;
-    margin: 20px;
     border-radius: 10px;
-    width: 475px;
+    margin: 20px auto 20px auto;
+    width: 75%;
+    border: 3px solid green;
+    padding: 10px;
     border: solid;
     text-align: center;
     perspective-origin: center;
@@ -42,18 +44,19 @@ code {
 
 }
 
-.scroll {
+/* .scroll {
   display: grid;
   grid-template-columns: 200px 200px 200px;
-}
+} */
 
 .spot-card {
   width: auto;
-    grid-template-columns: repeat(2, 1fr);
+    /* grid-template-columns: repeat(2, 1fr); */
     overflow-y: visible;
-    height: 101vh;
-    display: grid;
+    opacity: 1;
+    /* display: grid; */
 } 
+
 
 .card-text {
   font-family: monospace;
@@ -94,15 +97,18 @@ footer {
 /* img */
 
 .spot-img {
-  max-width: 50%;  
+  max-width: 70%;  
   height: auto;  
   border-radius: 10px;
   border: 1px solid white;
   margin-top: 10px;
+  opacity: 1 !important;
 }
 
 .garamond {
   background-image: url(../public/assets/img/background.png);
-  height: 1000px;
   background-size: 100%;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  margin: 0px;
 }
