@@ -6,6 +6,7 @@ import SearchList from './SearchList';
 function Search({ details }) {
 
   const [searchField, setSearchField] = useState("");
+  
 
   const filteredPersons = details.filter(
     person => {
@@ -41,9 +42,9 @@ function Search({ details }) {
       </div>
       <div className="pa2">
         <input 
-          className="pa3 bb br3 grow b--none bg-lightest-blue ma3"
+          className="search-bar"
           type = "search" 
-          placeholder = "Search People" 
+          placeholder = "Ledge, Stairs, Skate Park..." 
           onChange = {handleChange}
         />
       </div>
