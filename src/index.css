@@ -43,6 +43,10 @@ code {
   border: solid white;
 }
 
+.scroll {
+  margin-top: 10px;
+}
+
 .spots-container {
   display: flow-root;
     color: white;
@@ -56,6 +60,17 @@ code {
     perspective-origin: center;
     background-color: #bdbdbd;
 
+}
+
+.column1 {
+  float: left;
+  width: 40%;
+  font-family: monospace;
+}
+
+.column2 {
+  float: right;
+  width: 60%;
 }
 
 /* .scroll {
@@ -109,4 +124,5 @@ footer {
   background-repeat: repeat;
   background-attachment: fixed;
   margin-top: 90px;
+  position: absolute;
 }
