@@ -3,9 +3,15 @@ import React, { useState } from 'react';
 import Scroll from './Scroll';
 import SearchList from './SearchList';
 
+
+
+
+
+
 function Search({ details }) {
 
   const [searchField, setSearchField] = useState("");
+  
   
 
   const filteredPersons = details.filter(
@@ -36,15 +42,17 @@ function Search({ details }) {
   }
 
   return (
+    
     <section className="garamond">
       <div className="navy georgia ma0 grow">
         <h2 className="f2">This Weekend</h2>
       </div>
-      <div className="pa2">
+      <div className="">
+        
         <input 
           className="search-bar"
           type = "search" 
-          placeholder = "Ledge, Stairs, Skate Park..." 
+          placeholder = "Ledge, Stairs, Skate Park..."
           onChange = {handleChange}
         />
       </div>

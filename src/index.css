@@ -58,7 +58,7 @@ code {
     border: solid;
     text-align: center;
     perspective-origin: center;
-    background-color: #bdbdbd;
+    background-color: rgb(189, 189, 189, .8) ;
 
 }
 
@@ -89,6 +89,7 @@ code {
 
 .card-text {
   font-family: monospace;
+  font-size: x-large;
 }
 
 .searchbar {

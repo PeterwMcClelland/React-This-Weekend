@@ -2,6 +2,12 @@
 
 import React from 'react';
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLocationDot } from '@fortawesome/free-solid-svg-icons'
+
+
+const pin = <FontAwesomeIcon icon={faLocationDot} />
+
 function Card({person}) {
   return(
     <div className="spots-container">
@@ -12,7 +18,7 @@ function Card({person}) {
       <div className='card-text'>
         <h2>{person.name}</h2>
         <p>{person.info}</p>
-        <p>{person.address}</p>
+        <p>{pin} {person.address}</p>
       </div>
       </div>
     </div>
