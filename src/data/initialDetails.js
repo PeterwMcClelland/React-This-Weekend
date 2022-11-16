@@ -84,14 +84,41 @@ const initialDetails = [
         info: "8 stair rail in the parking garage of LA Fitness.",
         address: "1420 Lloyd Center, Portland, OR 97232, USA",
     },
-    // {
+    {
+        id: 13,
+        imgPath: "./assets/img/lafitness13.png",
+        name: "13 stair rail in parking garage.",
+        info: "Go after hours to avoid secerity.",
+        address: "1420 Lloyd Center, Portland, OR 97232, USA",
+    },
+    {
+        id: 14,
+        imgPath: "./assets/img/RckJjHV.jpeg",
+        name: "Common Wealth - Skate Park / Skate Shop",
+        info: "$10 for 2 Hours, $13 All Day",
+        address: "1425 SE 20th Ave., Portland, OR",
+    },
+   {
+        id: 15,
+        imgPath: "./assets/img/rockmanny.png",
+        name: "Rock Manny",
+        info: "Manual pad in the park blocks.",
+        address: "Location: 827 SW Columbia St, Portland, OR 97201, USA",
+    },
+    {
+        id: 16,
+        imgPath: "./assets/img/savier-bump.jpeg",
+        name: "Savier Bump",
+        info: "Big drop ruff landing.",
+        address: "331 SE Madison St #120, Portland, OR 97214, USA",
+    },
+     // {
     //     id: ,
     //     imgPath: "./assets/img/",
     //     name: "",
     //     info: "",
     //     address: "",
     // },
-   
 ];
 
 export default initialDetails;

@@ -52,7 +52,7 @@ function Search({ details }) {
         <input 
           className="search-bar"
           type = "search" 
-          placeholder = "Ledge, Stairs, Skate Park..."
+          placeholder = "Ledges, Stairs, Skate Park..."
           onChange = {handleChange}
         />
       </div>
