@@ -1,4 +1,5 @@
 
+
 const initialDetails = [
     {
        id: 1,
@@ -25,7 +26,7 @@ const initialDetails = [
         id: 4,
         imgPath: "./assets/img/calspharmacy.png",
         name: "Cal's Pharmacy",
-        info: "https://calspharmacy.com/",
+        // info: "https://calspharmacy.com/",
         address: "1400 E Burnside St, Portland, OR 97214",
     },
     {
@@ -126,6 +127,20 @@ const initialDetails = [
         name: "Skate Shop",
         info: "",
         address: "531 SE Morrison St, Portland, OR 97214",
+    },
+    {
+        id: 19,
+        imgPath: "./assets/img/tactics.png",
+        name: "Tactics - Skate Shop",
+        info: "Open 10AM-8PM",
+        address: "901 NW Davis St, Portland, OR 97209",
+    },
+    {
+        id: 20,
+        imgPath: "./assets/img/waterfronhubba.png",
+        name: "WaterFront Hubba - Hubba Ledge",
+        info: "Long 4 stair hubba.",
+        address: "Bill Naito Legacy Fountain, 2 SW Naito Pkwy, Portland, OR 97204, USA",
     },
     // {
     //     id: ,
