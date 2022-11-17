@@ -25,7 +25,7 @@ const initialDetails = [
     {
         id: 4,
         imgPath: "./assets/img/calspharmacy.png",
-        name: "Cal's Pharmacy",
+        name: "Cal's Pharmacy - Skate Shop",
         // info: "https://calspharmacy.com/",
         address: "1400 E Burnside St, Portland, OR 97214",
     },
@@ -141,6 +141,13 @@ const initialDetails = [
         name: "WaterFront Hubba - Hubba Ledge",
         info: "Long 4 stair hubba.",
         address: "Bill Naito Legacy Fountain, 2 SW Naito Pkwy, Portland, OR 97204, USA",
+    },
+    {
+        id: 21,
+        imgPath: "./assets/img/zoobombgap.png",
+        name: "Zoo Bomb Gap - Flat Gap",
+        info: "Down hill flat gap.",
+        address: "2670 SW Tichner Dr, Portland, OR 97205, USA",
     },
     // {
     //     id: ,
