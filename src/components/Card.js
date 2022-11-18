@@ -3,10 +3,10 @@
 import React from 'react';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLocationDot } from '@fortawesome/free-solid-svg-icons'
+import { faMapPin } from '@fortawesome/free-solid-svg-icons'
 
 
-const pin = <FontAwesomeIcon icon={faLocationDot} />
+const pin = <FontAwesomeIcon icon={faMapPin} />
 
 function Card({person}) {
   return(
