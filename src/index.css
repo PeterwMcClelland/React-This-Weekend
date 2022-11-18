@@ -55,10 +55,10 @@ code {
     margin: 20px auto 20px auto;
     width: 75%;
     padding: 10px;
-    border: solid;
+    border: 2px solid white;
     text-align: center;
     perspective-origin: center;
-    background-color: rgb(189, 189, 189, .8) ;
+    background-color: rgb(189, 189, 189, .9);
 
 }
 
