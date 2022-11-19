@@ -156,6 +156,13 @@ const initialDetails = [
         info: "Multiple small planter ledges.",
         address: "5105 SE 97th Ave, Portland, OR 97266, USA",
     },
+    {
+        id: 23,
+        imgPath: "./assets/img/HumpLedges.jpg",
+        name: "Hump Ledges - Ledge",
+        info: "Long wavy ledges.",
+        address: "810 SE Belmont St #100, Portland, OR 97214, USA",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
