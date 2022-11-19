@@ -149,6 +149,13 @@ const initialDetails = [
         info: "Down hill flat gap.",
         address: "2670 SW Tichner Dr, Portland, OR 97205, USA",
     },
+    {
+        id: 22,
+        imgPath: "./assets/img/lentledge.png",
+        name: "Lent Planters - Ledges",
+        info: "Multiple small planter ledges.",
+        address: "5105 SE 97th Ave, Portland, OR 97266, USA",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
