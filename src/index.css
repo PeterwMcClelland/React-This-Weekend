@@ -28,6 +28,7 @@ code {
   top: 0;
   width: 100%;
   border-bottom: solid 1px white;
+  text-decoration: overline;
 }
 
 /* Search Bar */
