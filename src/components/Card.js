@@ -3,10 +3,11 @@
 import React from 'react';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMapPin } from '@fortawesome/free-solid-svg-icons'
+import { faCopy, faMapPin } from '@fortawesome/free-solid-svg-icons'
 
 
 const pin = <FontAwesomeIcon icon={faMapPin} />
+const copyPin = <FontAwesomeIcon icon={faCopy} />
 
 function Card({person}) {
   return(
@@ -18,11 +19,13 @@ function Card({person}) {
       <div className='card-text'>
         <h2>{person.name}</h2>
         <p>{person.info}</p>
-        <p>{pin} {person.address}</p>
+        <p className='textarea'>{pin} {person.address} {copyPin}</p>
       </div>
       </div>
     </div>
   );
 }
+
+
 
 export default Card;
