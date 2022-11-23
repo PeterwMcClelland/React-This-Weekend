@@ -82,6 +82,15 @@ code {
     /* display: grid; */
 } 
 
+.copypin:hover {
+  color: rgb(109, 109, 109);
+  font-size: xx-large;
+}
+
+.copypin {
+  display: inline;
+  padding-left: 10px;
+}
 
 .card-text {
   font-family: monospace;

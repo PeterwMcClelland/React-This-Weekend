@@ -9,6 +9,9 @@ import { faCopy, faMapPin } from '@fortawesome/free-solid-svg-icons'
 const pin = <FontAwesomeIcon icon={faMapPin} />
 const copyPin = <FontAwesomeIcon icon={faCopy} />
 
+
+
+
 function Card({person}) {
   return(
     <div className="spots-container">
@@ -17,9 +20,16 @@ function Card({person}) {
       </div>
       <div className='column1'>
       <div className='card-text'>
+
         <h2>{person.name}</h2>
         <p>{person.info}</p>
-        <p className='textarea'>{pin} {person.address} {copyPin}</p>
+        <p className='textarea'>{pin} {person.address} </p>
+
+        <div className='copypin' onClick={() => {
+          navigator.clipboard.writeText(person.address);
+        }}>
+         {copyPin}
+      </div>
       </div>
       </div>
     </div>
