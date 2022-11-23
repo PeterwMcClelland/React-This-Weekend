@@ -124,7 +124,7 @@ const initialDetails = [
     {
         id: 18,
         imgPath: "./assets/img/Shrunken-Head.png",
-        name: "Skate Shop",
+        name: "Shrunken Head - Skate Shop",
         info: "",
         address: "531 SE Morrison St, Portland, OR 97214",
     },
