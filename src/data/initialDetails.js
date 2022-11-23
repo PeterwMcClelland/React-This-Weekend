@@ -163,6 +163,13 @@ const initialDetails = [
         info: "Long wavy ledges.",
         address: "810 SE Belmont St #100, Portland, OR 97214, USA",
     },
+    {
+        id: 24,
+        imgPath: "./assets/img/banktoledge.png",
+        name: "Bank Rail - Bank / Rail",
+        info: "Bank to Rail",
+        address: "4341 SW View Point Terrace, Portland, OR 97239, USA",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
