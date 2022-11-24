@@ -170,6 +170,13 @@ const initialDetails = [
         info: "Bank to Rail",
         address: "4341 SW View Point Terrace, Portland, OR 97239, USA",
     },
+    {
+        id: 25,
+        imgPath: "./assets/img/EdBennidict.png",
+        name: "Ed Benedict - Skate Park",
+        info: "Ledges rails and stairs.",
+        address: "10125 SE Powell Blvd, Portland, OR 97266",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
