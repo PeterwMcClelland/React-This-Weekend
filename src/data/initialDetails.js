@@ -125,7 +125,7 @@ const initialDetails = [
         id: 18,
         imgPath: "./assets/img/Shrunken-Head.png",
         name: "Shrunken Head - Skate Shop",
-        info: "",
+        info: "Skate Shop in SouthEast Portland",
         address: "531 SE Morrison St, Portland, OR 97214",
     },
     {
@@ -176,6 +176,20 @@ const initialDetails = [
         name: "Ed Benedict - Skate Park",
         info: "Ledges rails and stairs.",
         address: "10125 SE Powell Blvd, Portland, OR 97266",
+    },
+    {
+        id: 26,
+        imgPath: "./assets/img/bankgap.png",
+        name: "Bank to Bank Gap - DIY Bank",
+        info: "Two DIY Banks with a gap in the middle.",
+        address: "706 OR-99E, Portland, OR 97214, USA",
+    },
+    {
+        id: 27,
+        imgPath: "./assets/img/DIYbarrier.png",
+        name: "Larrabee Barrier - Bank / Barrier",
+        info: "Larrabee DIY Barrier",
+        address: "2399 N Harding Ave, Portland, OR 97227, USA",
     },
     // {
     //     id: ,
