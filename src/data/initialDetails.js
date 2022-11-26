@@ -205,6 +205,13 @@ const initialDetails = [
         info: "6 Stair Rail",
         address: "3400 SE 43rd Ave, Portland, OR 97206, USA",
     },
+    {
+        id: 30,
+        imgPath: "./assets/img/21StairRail.png",
+        name: "Madison Rail - Rail",
+        info: "21 Stair Rail",
+        address: "226 SE Madison St, Portland, OR 97214, USA",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
