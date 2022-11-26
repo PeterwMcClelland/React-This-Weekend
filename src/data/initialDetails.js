@@ -212,6 +212,13 @@ const initialDetails = [
         info: "21 Stair Rail",
         address: "226 SE Madison St, Portland, OR 97214, USA",
     },
+    {
+        id: 31,
+        imgPath: "./assets/img/ChristChurch.png",
+        name: "Christ Church 9 - Rail",
+        info: "Long 9 stair rail.",
+        address: "1060 Chandler Rd, Lake Oswego, OR 97034, USA",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
