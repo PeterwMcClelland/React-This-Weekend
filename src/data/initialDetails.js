@@ -95,7 +95,7 @@ const initialDetails = [
     {
         id: 14,
         imgPath: "./assets/img/lafitness13.png",
-        name: "13 stair rail in parking garage.",
+        name: "LA Fitness 13 - Stair / Rail.",
         info: "Go after hours to avoid secerity.",
         address: "1420 Lloyd Center, Portland, OR 97232, USA",
     },
@@ -190,6 +190,20 @@ const initialDetails = [
         name: "Larrabee Barrier - Bank / Barrier",
         info: "Larrabee DIY Barrier",
         address: "2399 N Harding Ave, Portland, OR 97227, USA",
+    },
+    {
+        id: 28,
+        imgPath: "./assets/img/Block17.png",
+        name: "Block 17 - 10/12 stair",
+        info: "10 to 12 stair with a slanted landing.",
+        address: "1315 NW 11th Ave, Portland, OR 97209, USA",
+    },
+    {
+        id: 29,
+        imgPath: "./assets/img/catholicchurch6.png",
+        name: "Catholic Church 6 - Stair / Rail",
+        info: "6 Stair Rail",
+        address: "3400 SE 43rd Ave, Portland, OR 97206, USA",
     },
     // {
     //     id: ,
