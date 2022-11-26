@@ -219,6 +219,13 @@ const initialDetails = [
         info: "Long 9 stair rail.",
         address: "1060 Chandler Rd, Lake Oswego, OR 97034, USA",
     },
+    {
+        id: 32,
+        imgPath: "./assets/img/woodlandflatbar.png",
+        name: "Woodland Rail - Flat Bar / Rail",
+        info: "Pop out flat bar.",
+        address: "1914 NE 102nd Ave, Portland, OR 97220, USA",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
