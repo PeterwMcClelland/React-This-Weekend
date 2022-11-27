@@ -228,10 +228,17 @@ const initialDetails = [
     },
     {
         id: 33,
-        imgPath: "./assets/img/cerveledge.png",
+        imgPath: "./assets/img/curveledge.png",
         name: "Curb Curve Ledge - Ledge",
-        info: "Cool curb ledge over dirt.",
+        info: "Curb ledge over dirt.",
         address: "1964 SE 30th Ave, Portland, OR 97214, USA",
+    },
+    {
+        id: 34,
+        imgPath: "./assets/img/overrail.png",
+        name: "Comfort Suites 8 - Staire / Rail",
+        info: "8 stair rail perfact for skating over.",
+        address: "11340 SW 60th Ave, Portland, OR 97219, USA",
     },
     // {
     //     id: ,
