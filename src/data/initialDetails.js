@@ -226,6 +226,13 @@ const initialDetails = [
         info: "Pop out flat bar.",
         address: "1914 NE 102nd Ave, Portland, OR 97220, USA",
     },
+    {
+        id: 33,
+        imgPath: "./assets/img/cerveledge.png",
+        name: "Curb Curve Ledge - Ledge",
+        info: "Cool curb ledge over dirt.",
+        address: "1964 SE 30th Ave, Portland, OR 97214, USA",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
