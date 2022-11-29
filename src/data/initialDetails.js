@@ -247,7 +247,14 @@ const initialDetails = [
         info: "Cascade College Ledges",
         address: "705 N Killingsworth St, Portland, OR 97217, USA",
     },
-    // {
+    {
+        id: 36,
+        imgPath: "./assets/img/newburge.png",
+        name: "Newberg - Skate Park",
+        info: "Great transition park",
+        address: "1201 S Blaine St, Newberg, OR 97132",
+    },
+     // {
     //     id: ,
     //     imgPath: "./assets/img/",
     //     name: "",
