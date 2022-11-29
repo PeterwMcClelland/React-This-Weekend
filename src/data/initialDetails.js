@@ -240,6 +240,13 @@ const initialDetails = [
         info: "8 stair rail perfact for skating over.",
         address: "11340 SW 60th Ave, Portland, OR 97219, USA",
     },
+    {
+        id: 35,
+        imgPath: "./assets/img/cascadeledges.png",
+        name: "Cascade ledges - Ledges",
+        info: "Cascade College Ledges",
+        address: "705 N Killingsworth St, Portland, OR 97217, USA",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
@@ -247,7 +254,7 @@ const initialDetails = [
     //     info: "",
     //     address: "",
     // },
-    // {
+     // {
     //     id: ,
     //     imgPath: "./assets/img/",
     //     name: "",
