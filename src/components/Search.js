@@ -46,6 +46,7 @@ function Search({ details }) {
     <section className="garamond">
       <div className="navy georgia ma0 grow">
         <h2 className="f2">This Weekend</h2>
+        
       </div>
       <div className="">
         

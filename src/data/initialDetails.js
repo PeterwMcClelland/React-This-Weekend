@@ -256,7 +256,7 @@ const initialDetails = [
     },
      {
         id: 37,
-        imgPath: "./assets/img/8stairrail.png",
+        imgPath: "./assets/img/8Stairrail.png",
         name: "8 Stair - Rail / Stairs",
         info: "8 Stair rail.",
         address: "13 SE 2nd Ave, Portland, OR 97214, USA",
