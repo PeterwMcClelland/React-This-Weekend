@@ -261,6 +261,20 @@ const initialDetails = [
         info: "8 Stair rail.",
         address: "13 SE 2nd Ave, Portland, OR 97214, USA",
     },
+     {
+        id: 38,
+        imgPath: "./assets/img/SquareLedges.png",
+        name: "Square Ledges - Ledges",
+        info: "Three square ledges.",
+        address: "1510 SW 6th Ave, Portland, OR 97201, USA",
+    },
+     {
+        id: 39,
+        imgPath: "./assets/img/StClair5.png",
+        name: "St Clair 5 - Rail",
+        info: "St Clair 5 stair rail.",
+        address: "SW Park Pl & Vista, Portland, OR 97205, USA",
+    },
      // {
     //     id: ,
     //     imgPath: "./assets/img/",
