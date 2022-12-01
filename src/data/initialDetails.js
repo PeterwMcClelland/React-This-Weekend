@@ -254,6 +254,13 @@ const initialDetails = [
         info: "Great transition park",
         address: "1201 S Blaine St, Newberg, OR 97132",
     },
+     {
+        id: 37,
+        imgPath: "./assets/img/8stairrail.png",
+        name: "8 Stair - Rail / Stairs",
+        info: "8 Stair rail.",
+        address: "13 SE 2nd Ave, Portland, OR 97214, USA",
+    },
      // {
     //     id: ,
     //     imgPath: "./assets/img/",
