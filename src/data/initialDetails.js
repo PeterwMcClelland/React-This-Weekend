@@ -275,13 +275,13 @@ const initialDetails = [
         info: "St Clair 5 stair rail.",
         address: "SW Park Pl & Vista, Portland, OR 97205, USA",
     },
-     // {
-    //     id: ,
-    //     imgPath: "./assets/img/",
-    //     name: "",
-    //     info: "",
-    //     address: "",
-    // },
+     {
+        id: 40,
+        imgPath: "./assets/img/",
+        name: "",
+        info: "",
+        address: "",
+    },
      // {
     //     id: ,
     //     imgPath: "./assets/img/",
