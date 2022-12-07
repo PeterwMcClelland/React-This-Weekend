@@ -13,7 +13,7 @@ const initialDetails = [
         imgPath: "./assets/img/ParkBlocks.jpeg",
         name: "Park Blocks - Stairs",
         info: "Long 9 Stair.",
-        address: "1000 SW Park Ave, Portland, Oregon.",
+        address: "1000 SW Park Ave, Portland, Oregon",
     },
     {
         id: 3,

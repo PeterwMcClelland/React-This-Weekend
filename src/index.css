@@ -54,12 +54,12 @@ code {
     font-size: larger;
     border-radius: 10px;
     margin: 20px auto 20px auto;
-    width: 75%;
+    width: 90%;
     padding: 10px;
     border: 2px solid white;
     text-align: center;
     perspective-origin: center;
-    background-color: rgb(189, 189, 189, .9);
+    background-color: rgb(189, 189, 189, .8);
 
 }
 
@@ -67,6 +67,7 @@ code {
   float: left;
   width: 40%;
   font-family: monospace;
+  
 }
 
 .column2 {
@@ -83,7 +84,7 @@ code {
 } 
 
 .copypin:hover {
-  color: rgb(109, 109, 109);
+  color: rgb(75, 107, 1);
 }
 
 .copypin {
@@ -93,7 +94,7 @@ code {
 
 .card-text {
   font-family: monospace;
-  font-size: x-large;
+  font-size: xx-large;
 }
 
 .searchbar {
@@ -116,7 +117,7 @@ footer {
 /* img */
 
 .spot-img {
-  max-width: 70%;  
+  max-width: 85%;  
   height: auto;  
   border-radius: 10px;
   border: 1px solid white;
@@ -131,3 +132,4 @@ footer {
   margin-top: 90px;
   position: absolute;
 }
+
