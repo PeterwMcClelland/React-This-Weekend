@@ -40,7 +40,7 @@ function Search({ details }) {
   return (
     
     <section className="garamond">
-      <div className="navy georgia ma0 grow">
+      <div className="title">
         <h2 className="f2">This Weekend</h2>
         
       </div>

@@ -277,12 +277,19 @@ const initialDetails = [
     },
      {
         id: 40,
-        imgPath: "./assets/img/",
-        name: "",
-        info: "",
-        address: "",
+        imgPath: "./assets/img/pccledge.png",
+        name: "PCC Education Building - Ledges",
+        info: "Public Services Education Building ledge.",
+        address: "909 N Killingsworth St, Portland, OR 97217, USA",
     },
-     // {
+     {
+        id: 41,
+        imgPath: "./assets/img/pettygrovepark.png",
+        name: "Pettygrove Park - Gap / Barrier",
+        info: "It is a barrier to drop in the middle of the park.",
+        address: "200 SW Pedestrian Trail, Portland, OR 97201, USA",
+    },
+    // {
     //     id: ,
     //     imgPath: "./assets/img/",
     //     name: "",
