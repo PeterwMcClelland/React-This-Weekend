@@ -1,5 +1,4 @@
 
-
 const initialDetails = [
     {
        id: 1,
@@ -289,6 +288,13 @@ const initialDetails = [
         info: "It is a barrier to drop in the middle of the park.",
         address: "200 SW Pedestrian Trail, Portland, OR 97201, USA",
     },
+    // {
+    //     id: ,
+    //     imgPath: "./assets/img/",
+    //     name: "",
+    //     info: "",
+    //     address: "",
+    // },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
