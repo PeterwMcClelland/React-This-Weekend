@@ -302,6 +302,14 @@ const initialDetails = [
     //     info: "",
     //     address: "",
     // },
+    // {
+    //     id: ,
+    //     imgPath: "./assets/img/",
+    //     name: "",
+    //     info: "",
+    //     address: "",
+    // },
 ];
+
 
 export default initialDetails;
