@@ -295,13 +295,13 @@ const initialDetails = [
         info: "",
         address: "" ,
     },
-    // {
-    //     id: ,
-    //     imgPath: "./assets/img/",
-    //     name: "",
-    //     info: "",
-    //     address: "",
-    // },
+    {
+        id: 43,
+        imgPath: "./assets/img/",
+        name: "",
+        info: "",
+        address: "",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
