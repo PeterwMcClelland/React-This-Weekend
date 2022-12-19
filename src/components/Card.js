@@ -19,6 +19,7 @@ function Card({person}) {
       </div>
       <div className='column1'>
       <div className='card-text'>
+      
 
         <h2>{person.name}</h2>
         <p>{person.info}</p>
