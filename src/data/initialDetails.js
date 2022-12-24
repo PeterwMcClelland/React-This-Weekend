@@ -295,13 +295,13 @@ const initialDetails = [
         info: "Ten stair at Lincoln high school.",
         address: "Lincoln High School, Portland, OR 97201, USA" ,
     },
-    // {
-    //     id: 43,
-    //     imgPath: "./assets/img/",
-    //     name: "",
-    //     info: "",
-    //     address: "",
-    // },
+    {
+        id: 43,
+        imgPath: "./assets/img/tualatinskatepark.jpeg",
+        name: "Tualatin Park - Skate Parks",
+        info: "Fun park, everything is small and easy to skate.",
+        address: "8515-8523 SW Tualatin Rd, Tualatin, OR 97062, United States",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
