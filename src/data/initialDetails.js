@@ -270,8 +270,8 @@ const initialDetails = [
      {
         id: 39,
         imgPath: "./assets/img/StClair5.png",
-        name: "St Clair 5 - Rail",
-        info: "St Clair 5 stair rail.",
+        name: "St. Clair 5 - Rail",
+        info: "St. Clair 5 stair rail.",
         address: "SW Park Pl & Vista, Portland, OR 97205, USA",
     },
      {
@@ -301,6 +301,13 @@ const initialDetails = [
         name: "Tualatin Park - Skate Parks",
         info: "Fun park, everything is small and easy to skate.",
         address: "8515-8523 SW Tualatin Rd, Tualatin, OR 97062, United States",
+    },
+    {
+        id: 44,
+        imgPath: "./assets/img/substunceskateshop.png",
+        name: "Substunce - Skate Shops",
+        info: "Skate shop in Beaverton.",
+        address: "9950 SW Beaverton Hillsdale Hwy, Beaverton, OR 97005",
     },
     // {
     //     id: ,
