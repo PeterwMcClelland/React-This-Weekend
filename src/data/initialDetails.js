@@ -330,6 +330,27 @@ const initialDetails = [
         info: "Long curb high manual pad, good spot to warm up.",
         address: "35 SE Main St, Portland, OR 97214",
     },
+    {
+        id: 48,
+        imgPath: "./assets/img/powellspot.png",
+        name: "Powell - Ledges",
+        info: "Up Ledge on side of street.",
+        address: "SE 19th and SE Powell Blvd",
+    },
+    {
+        id: 49,
+        imgPath: "./assets/img/glenhaven.png",
+        name: "Glenhaven - Skate Parks",
+        info: "Fun park with a little bit of everything.",
+        address: "7900 NE Siskiyou St, Portland, OR, 97213",
+    },
+    {
+        id: 50,
+        imgPath: "./assets/img/pierpark.png",
+        name: "Pier Park - Skate Parks",
+        info: "Skate park with a good varity.",
+        address: "10421 N. Lombard Street, Portland, Oregon, 97203",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
