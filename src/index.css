@@ -7,8 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-
-
 /* Header */
 
 .f2 {
@@ -120,14 +118,14 @@ footer {
   margin-top: 10px;
 }
 
-.garamond {
+ .garamond {
   background-image: url(../public/assets/img/background.png);
   background-size: 100%;
   background-repeat: repeat;
   background-attachment: fixed;
   margin-top: 90px;
   position: absolute;
-}
+} 
 
 @media (max-width: 600px) {
   .card-text {

@@ -351,6 +351,13 @@ const initialDetails = [
         info: "Skate park with a good varity.",
         address: "10421 N. Lombard Street, Portland, Oregon, 97203",
     },
+    {
+        id: 51,
+        imgPath: "./assets/img/gatewaydiscovery.png",
+        name: "Gateway - Skate Parks",
+        info: "Transition park with a street section.",
+        address: "10520 NE Halsey St, Portland, OR 97220",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
