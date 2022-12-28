@@ -108,7 +108,7 @@ const initialDetails = [
    {
         id: 16,
         imgPath: "./assets/img/rockmanny.png",
-        name: "Rock Manny - Manuals",
+        name: "Rock Manny - Manual Pad",
         info: "Manual pad in the park blocks.",
         address: "Location: 827 SW Columbia St, Portland, OR 97201, USA",
     },
@@ -308,6 +308,27 @@ const initialDetails = [
         name: "Substunce - Skate Shops",
         info: "Skate shop in Beaverton.",
         address: "9950 SW Beaverton Hillsdale Hwy, Beaverton, OR 97005",
+    },
+    {
+        id: 45,
+        imgPath: "./assets/img/esplanadeLedge.png",
+        name: "Esplanade - Ledges",
+        info: "Long over dirt gap ledge.",
+        address: "35 SE Main St, Portland, OR 97214",
+    },
+    {
+        id: 46,
+        imgPath: "./assets/img/esplanadeupledge.png",
+        name: "Esplanade Up Ledge - Ledges",
+        info: "Steep up ledge very hard to skate.",
+        address: "35 SE Main St, Portland, OR 97214",
+    },
+    {
+        id: 47,
+        imgPath: "./assets/img/esplanademanualpad.png",
+        name: "Esplanade Pad - Manual Pad",
+        info: "Long curb high manual pad, good spot to warm up.",
+        address: "35 SE Main St, Portland, OR 97214",
     },
     // {
     //     id: ,
