@@ -25,7 +25,7 @@ function Card({person}) {
         <p>{person.info}</p>
         <p className='textarea'>{pin} {person.address} </p>
 
-        <div typeof='' className='copypin' onClick={() => {
+        <div className='copypin' onClick={() => {
           navigator.clipboard.writeText(person.address);
         }}>
          {copyPin}
