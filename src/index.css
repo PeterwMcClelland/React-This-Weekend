@@ -86,6 +86,10 @@ body {
   padding-left: 10px;
 }
 
+/* .pinicon {
+ color: rgb(5, 76, 228);
+} */
+
 .card-text {
   font-family: monospace;
   font-size: xx-large;
@@ -113,9 +117,11 @@ footer {
 .spot-img {
   max-width: 85%;  
   height: auto;  
-  border-radius: 10px;
-  border: 1px solid white;
+  border-radius: 5px;
+  /* border: 1px solid white; */
   margin-top: 10px;
+  border-left: 7px solid #4d4d4d93;
+  border-bottom: 7px solid#4d4d4d93;
 }
 
  .garamond {

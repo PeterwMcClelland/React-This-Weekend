@@ -3,10 +3,10 @@
 import React from 'react';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCopy, faMapPin } from '@fortawesome/free-solid-svg-icons'
+import { faCopy, faMapLocationDot } from '@fortawesome/free-solid-svg-icons'
 
 
-const pin = <FontAwesomeIcon icon={faMapPin} />
+const pin = <FontAwesomeIcon icon={faMapLocationDot} className='pinicon' />
 const copyPin = <FontAwesomeIcon icon={faCopy} />
 
 
