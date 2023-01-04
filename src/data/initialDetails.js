@@ -3,7 +3,7 @@ const initialDetails = [
     {
        id: 1,
        imgPath: "./assets/img/beavertonpark.jpeg",
-       name: "Beaverton - Skate Park",
+       name: "Beaverton - Skate Parks",
        info: "Ramps/Ledges",
        address: "NW Schlottman Pl, Beaverton, OR 97006",
     },
@@ -17,14 +17,14 @@ const initialDetails = [
     {
         id: 3,
         imgPath: "./assets/img/Burnside.png",
-        name: "Burnside - Skate Park",
+        name: "Burnside - Skate Parks",
         info: "Iconic DIY Skatepark",
         address: "SE 2nd Ave, Portland, OR 97232",
     },
     {
         id: 4,
         imgPath: "./assets/img/calspharmacy.png",
-        name: "Cal's Pharmacy - Skate Shop",
+        name: "Cal's Pharmacy - Skate Shops",
         // info: "https://calspharmacy.com/",
         address: "1400 E Burnside St, Portland, OR 97214",
     },
@@ -38,7 +38,7 @@ const initialDetails = [
     {
         id: 6,
         imgPath: "./assets/img/catspaw-004.jpeg",
-        name: "Cats Paw Saloon - Bar",
+        name: "Cats Paw Saloon - Bars",
         info: "Owned by Mickey Reyes, it's a great dive bar.",
         address: "3565 SE Division St, Portland, OR 97202",
     },
@@ -101,14 +101,14 @@ const initialDetails = [
     {
         id: 15,
         imgPath: "./assets/img/RckJjHV.jpeg",
-        name: "Common Wealth - Skate Park / Skate Shop",
+        name: "Common Wealth - Skate Parks / Skate Shops",
         info: "$10 for 2 Hours, $13 All Day",
         address: "1425 SE 20th Ave., Portland, OR",
     },
    {
         id: 16,
         imgPath: "./assets/img/rockmanny.png",
-        name: "Rock Manny - Manual Pad",
+        name: "Rock Manny - Manual Pads",
         info: "Manual pad in the park blocks.",
         address: "Location: 827 SW Columbia St, Portland, OR 97201, USA",
     },
@@ -123,14 +123,14 @@ const initialDetails = [
     {
         id: 18,
         imgPath: "./assets/img/Shrunken-Head.png",
-        name: "Shrunken Head - Skate Shop",
+        name: "Shrunken Head - Skate Shops",
         info: "Skate Shop in SouthEast Portland",
         address: "531 SE Morrison St, Portland, OR 97214",
     },
     {
         id: 19,
         imgPath: "./assets/img/tactics.png",
-        name: "Tactics - Skate Shop",
+        name: "Tactics - Skate Shops",
         info: "Open 10AM-8PM",
         address: "901 NW Davis St, Portland, OR 97209",
     },
@@ -172,7 +172,7 @@ const initialDetails = [
     {
         id: 25,
         imgPath: "./assets/img/EdBennidict.png",
-        name: "Ed Benedict - Skate Park",
+        name: "Ed Benedict - Skate Parks",
         info: "Ledges rails and stairs.",
         address: "10125 SE Powell Blvd, Portland, OR 97266",
     },
@@ -193,7 +193,7 @@ const initialDetails = [
     {
         id: 28,
         imgPath: "./assets/img/Block17.png",
-        name: "Block 17 - 10/12 stair",
+        name: "Block 17 - Stair",
         info: "10 to 12 stair with a slanted landing.",
         address: "1315 NW 11th Ave, Portland, OR 97209, USA",
     },
@@ -221,7 +221,7 @@ const initialDetails = [
     {
         id: 32,
         imgPath: "./assets/img/woodlandflatbar.png",
-        name: "Woodland Rail - Flat Bar / Rails",
+        name: "Woodland Rail - Flat Bars / Rails",
         info: "Pop out flat bar.",
         address: "1914 NE 102nd Ave, Portland, OR 97220, USA",
     },
@@ -249,7 +249,7 @@ const initialDetails = [
     {
         id: 36,
         imgPath: "./assets/img/newburge.png",
-        name: "Newberg - Skate Park",
+        name: "Newberg - Skate Parks",
         info: "Great transition park",
         address: "1201 S Blaine St, Newberg, OR 97132",
     },
@@ -270,7 +270,7 @@ const initialDetails = [
      {
         id: 39,
         imgPath: "./assets/img/StClair5.png",
-        name: "St. Clair 5 - Rail",
+        name: "St. Clair 5 - Rails",
         info: "St. Clair 5 stair rail.",
         address: "SW Park Pl & Vista, Portland, OR 97205, USA",
     },
@@ -326,7 +326,7 @@ const initialDetails = [
     {
         id: 47,
         imgPath: "./assets/img/esplanademanualpad.png",
-        name: "Esplanade Pad - Manual Pad",
+        name: "Esplanade Pad - Manual Pads",
         info: "Long curb high manual pad, good spot to warm up.",
         address: "35 SE Main St, Portland, OR 97214",
     },
