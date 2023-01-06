@@ -54,7 +54,6 @@ body {
     text-align: center;
     perspective-origin: center;
     background-color: rgb(189, 189, 189, .8);
-
 }
 
 .column1 {
@@ -84,6 +83,7 @@ body {
 .copypin {
   display: inline;
   padding-left: 10px;
+  cursor: copy;
 }
 
 /* .pinicon {
@@ -118,10 +118,10 @@ footer {
   max-width: 85%;  
   height: auto;  
   border-radius: 5px;
-  /* border: 1px solid white; */
+  border: 1px solid white;
   margin-top: 10px;
-  border-left: 4px solid #ffffff93;
-  border-bottom: 4px solid#ffffff93;
+  /* border-left: 4px solid #ffffff93;
+  border-bottom: 4px solid#ffffff93; */
 }
 
  .garamond {
