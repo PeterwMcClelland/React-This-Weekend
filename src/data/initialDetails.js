@@ -311,7 +311,7 @@ const initialDetails = [
     },
     {
         id: 45,
-        imgPath: "./assets/img/esplanadeLedge.png",
+        imgPath: "./assets/img/EsplanadeLedge.png",
         name: "Esplanade - Ledges",
         info: "Long over dirt gap ledge.",
         address: "35 SE Main St, Portland, OR 97214",
@@ -325,7 +325,7 @@ const initialDetails = [
     },
     {
         id: 47,
-        imgPath: "./assets/img/esplanademanualpad.png",
+        imgPath: "./assets/img/Esplanademanualpad.png",
         name: "Esplanade Pad - Manual Pads",
         info: "Long curb high manual pad, good spot to warm up.",
         address: "35 SE Main St, Portland, OR 97214",
