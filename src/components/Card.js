@@ -37,4 +37,6 @@ function Card({person}) {
   );
 }
 
+
+
 export default Card;
