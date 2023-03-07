@@ -5,6 +5,7 @@ import Search from './components/Search';
 import initialDetails from './data/initialDetails';
 
 
+
 function App() {
   return (
     <div className="body">

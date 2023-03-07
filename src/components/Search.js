@@ -41,7 +41,7 @@ function Search({ details }) {
     
     <section className="garamond">
       <div className="title">
-        <h2 className="f2">This Weekend</h2>
+        <h2 className="f2" >This Weekend</h2>
         
       </div>
 
