@@ -22,7 +22,7 @@ function Card({person}) {
       
 
         <h2>{person.name}</h2>
-        <p>{person.info}</p>
+        <p className='spot-info'>{person.info}</p>
         <p className='textarea'>{pin} {person.address} </p>
 
         <div className='copypin' onClick={() => {

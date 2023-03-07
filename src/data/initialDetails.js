@@ -3,7 +3,7 @@ const initialDetails = [
     {
        id: 1,
        imgPath: "./assets/img/beavertonpark.jpeg",
-       name: "Beaverton - Skate Parks",
+       name: "Beaverton Park - Skate Parks",
        info: "Ramps/Ledges",
        address: "NW Schlottman Pl, Beaverton, OR 97006",
     },
