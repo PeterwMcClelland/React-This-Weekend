@@ -4,7 +4,7 @@
 This is a site to help navigate Portland, OR skate spots around the city.
 
 ## Screenshot
-[![Screen-Shot-2022-11-26-at-10-12-41-PM.png](https://i.postimg.cc/TPd52GLV/Screen-Shot-2022-11-26-at-10-12-41-PM.png)](https://postimg.cc/v4KZXJvT)
+[![Screen-Shot-2023-03-07-at-12-22-30-AM.png](https://i.postimg.cc/WzsFHPQJ/Screen-Shot-2023-03-07-at-12-22-30-AM.png)](https://postimg.cc/r0YwD7y8)
 
 ## Built with
 HTML, CSS, Javascript, fontawesome and Heroku.
