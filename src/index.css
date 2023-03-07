@@ -20,7 +20,7 @@ body {
 
 .f2 {
   text-align: center;
-  background-color: gray;
+  background-color: rgb(128, 128, 128, .9);
   height: 75px;
   margin: 0px;
   font-family: monospace;
