@@ -15,8 +15,6 @@ Site: https://reactthisweekend.herokuapp.com/
 
 Repo: https://github.com/PeterwMcClelland/React-This-Weekend
 
-## Contributers
-Mario Zucca, Background Illustration.
 
 ## Contact
 Feel free to reach out if you have any questions peterwmcclelland@gmail.com.
