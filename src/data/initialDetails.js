@@ -327,7 +327,7 @@ const initialDetails = [
         id: 47,
         imgPath: "./assets/img/Esplanademanualpad.png",
         name: "Esplanade Pad - Manual Pads",
-        info: "Long curb high manual pad, good spot to warm up.",
+        info: "Long curb high manual pad. Good spot to warm up.",
         address: "35 SE Main St, Portland, OR 97214",
     },
     {
