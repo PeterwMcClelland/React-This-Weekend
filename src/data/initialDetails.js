@@ -358,13 +358,13 @@ const initialDetails = [
         info: "Transition park with a street section.",
         address: "10520 NE Halsey St, Portland, OR 97220",
     },
-    // {
-    //     id: ,
-    //     imgPath: "./assets/img/",
-    //     name: "",
-    //     info: "",
-    //     address: "",
-    // },
+    {
+        id: 52,
+        imgPath: "./assets/img/img-0541_orig.jpg",
+        name: "The Courts - Skate Parks / DIY",
+        info: "Local DIY Spot in tennis courts. It constently growing and changing.",
+        address: "1948 SW Broadway, Portland, OR 97201",
+    },
     // {
     //     id: ,
     //     imgPath: "./assets/img/",
