@@ -157,4 +157,17 @@ footer {
   .card-text {
     font-size:medium;
   }
+
+  .spots-container {
+    display: grid;
+    justify-items: center;
+  }
+
+  .column1 {
+    width: 100%;
+  }
+
+  .column2 {
+    width: 100%;
+  }
 }
