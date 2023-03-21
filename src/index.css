@@ -170,4 +170,21 @@ footer {
   .column2 {
     width: 100%;
   }
+
+  .f2 {
+    text-align: center;
+    background-color: rgb(128, 128, 128, .9);
+    height: 75px;
+    margin: 0px;
+    font-family: monospace;
+    font-size: x-large;
+    color: white;
+    padding-top: 15px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-bottom: solid 1px white;
+    text-decoration: overline;
+    font-family: 'Climate Crisis';
+  }
 }
