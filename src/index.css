@@ -156,6 +156,7 @@ footer {
 @media (max-width: 600px) {
   .card-text {
     font-size:medium;
+    font-family: 'Bebas Neue', cursive;
   }
 
   .spots-container {
