@@ -166,7 +166,7 @@ footer {
   }
 
   .garamond {
-    background-size: inherit;
+    background-size: cover;
     background-attachment: fixed;
     margin-top: 90px;
     position: absolute;
