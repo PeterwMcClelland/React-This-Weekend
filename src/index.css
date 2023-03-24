@@ -79,10 +79,9 @@ body {
 
 .spot-card {
   width: auto;
-    /* grid-template-columns: repeat(2, 1fr); */
     overflow-y: visible;
     opacity: 1;
-    /* display: grid; */
+    
 } 
 
 .copypin:hover {
@@ -95,9 +94,6 @@ body {
   cursor: copy;
 }
 
-/* .pinicon {
- color: rgb(5, 76, 228);
-} */
 
 .card-text {
   font-family: 'Bebas Neue', cursive;
@@ -140,8 +136,6 @@ footer {
   border: 1px solid white;
   box-shadow: 5px 5px 10px #666666;
   margin-top: 10px;
-  /* border-left: 4px solid #ffffff93;
-  border-bottom: 4px solid#ffffff93; */
 }
 
  .garamond {
@@ -171,7 +165,7 @@ footer {
   .column2 {
     width: 100%;
   }
-  
+
 
   .f2 {
     text-align: center;
