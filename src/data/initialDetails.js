@@ -1,11 +1,11 @@
 
 const initialDetails = [
     {
-       id: 1,
-       imgPath: "./assets/img/beavertonpark.jpeg",
-       name: "Beaverton Park - Skate Parks",
-       info: "Ramps/Ledges",
-       address: "NW Schlottman Pl, Beaverton, OR 97006",
+        id: 1,
+        imgPath: "./assets/img/calspharmacy.png",
+        name: "Cal's Pharmacy - Skate Shops",
+        // info: "https://calspharmacy.com/",
+        address: "1400 E Burnside St, Portland, OR 97214",
     },
     {
         id: 2,
@@ -23,11 +23,11 @@ const initialDetails = [
     },
     {
         id: 4,
-        imgPath: "./assets/img/calspharmacy.png",
-        name: "Cal's Pharmacy - Skate Shops",
-        // info: "https://calspharmacy.com/",
-        address: "1400 E Burnside St, Portland, OR 97214",
-    },
+        imgPath: "./assets/img/beavertonpark.jpeg",
+        name: "Beaverton Park - Skate Parks",
+        info: "Ramps/Ledges",
+        address: "NW Schlottman Pl, Beaverton, OR 97006",
+     },
     {
         id: 5,
         imgPath: "./assets/img/capitalhill9.png",
