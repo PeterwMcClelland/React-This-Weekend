@@ -6,6 +6,7 @@ const initialDetails = [
         name: "Cal's Pharmacy - Skate Shops",
         // info: "https://calspharmacy.com/",
         address: "1400 E Burnside St, Portland, OR 97214",
+        favorite: false,
     },
     {
         id: 2,
@@ -13,6 +14,7 @@ const initialDetails = [
         name: "Park Blocks - Stairs",
         info: "Long 9 Stair.",
         address: "1000 SW Park Ave, Portland, Oregon",
+        favorite: false,
     },
     {
         id: 3,
@@ -20,6 +22,7 @@ const initialDetails = [
         name: "Burnside - Skate Parks",
         info: "Iconic DIY Skatepark",
         address: "SE 2nd Ave, Portland, OR 97232",
+        favorite: false,
     },
     {
         id: 4,
@@ -27,6 +30,7 @@ const initialDetails = [
         name: "Beaverton Park - Skate Parks",
         info: "Ramps/Ledges",
         address: "NW Schlottman Pl, Beaverton, OR 97006",
+        favorite: false,
      },
     {
         id: 5,
@@ -34,6 +38,7 @@ const initialDetails = [
         name: "Capital Hill 9 - Rails",
         info: "Capitol Hill 9 Stair rail.",
         address: "8401 SW 17th Ave, Portland, OR 97219, USA",
+        favorite: false,
     },
     {
         id: 6,
@@ -41,6 +46,7 @@ const initialDetails = [
         name: "Cats Paw Saloon - Bars",
         info: "Owned by Mickey Reyes, it's a great dive bar.",
         address: "3565 SE Division St, Portland, OR 97202",
+        favorite: false,
     },
     {
         id: 7,
@@ -48,6 +54,7 @@ const initialDetails = [
         name: "Church 9 - Stairs",
         info: "9 stair at a church.",
         address: "NW Everett & 19th, Portland, OR 97209, USA",
+        favorite: false,
     },
     {
         id: 8,
@@ -55,6 +62,7 @@ const initialDetails = [
         name: "Creston Ledge - Ledges",
         info: "Shoot out ledge at Creston Elementary School.",
         address: "4701 SE Bush St, Portland, OR 97206, USA",
+        favorite: false,
     },
     {
         id: 9,
@@ -62,6 +70,7 @@ const initialDetails = [
         name: "Goose Hollow - Ledges",
         info: "Goose Hollow long downhill ledge.",
         address: "1643 SW Montgomery St, Portland, OR 97201, USA",
+        favorite: false,
     },
     {
         id: 10,
@@ -69,6 +78,7 @@ const initialDetails = [
         name: "Flat Bar - Rails",
         info: "Down hill flat bars in North West Portland.",
         address: "2230 W Burnside St, Portland, OR 97210, USA",
+        favorite: false,
     },
     {
         id: 11,
@@ -76,6 +86,7 @@ const initialDetails = [
         name: "Half Circle - Ledges",
         info: "Fun ledge/ manual in downtown Portland.",
         address: "198 SW 6th Ave, Portland, Oregon",
+        favorite: false,
     },
     {
         id: 12,
@@ -83,6 +94,7 @@ const initialDetails = [
         name: "Harriet Tubman - Rails",
         info: "7 Stair Rail",
         address: "2231 N Flint Ave, Portland, OR 97227, USA",
+        favorite: false,
     },
     {
         id: 13,
@@ -90,6 +102,7 @@ const initialDetails = [
         name: "LA Fitness - Rails",
         info: "8 stair rail in the parking garage of LA Fitness.",
         address: "1420 Lloyd Center, Portland, OR 97232, USA",
+        favorite: false,
     },
     {
         id: 14,
@@ -97,6 +110,7 @@ const initialDetails = [
         name: "LA Fitness 13 - Stair / Rail.",
         info: "Go after hours to avoid secerity.",
         address: "1420 Lloyd Center, Portland, OR 97232, USA",
+        favorite: false,
     },
     {
         id: 15,
@@ -104,6 +118,7 @@ const initialDetails = [
         name: "Common Wealth - Skate Parks / Skate Shops",
         info: "$10 for 2 Hours, $13 All Day",
         address: "1425 SE 20th Ave., Portland, OR",
+        favorite: false,
     },
    {
         id: 16,
@@ -111,6 +126,7 @@ const initialDetails = [
         name: "Rock Manny - Manual Pads",
         info: "Manual pad in the park blocks.",
         address: "Location: 827 SW Columbia St, Portland, OR 97201, USA",
+        favorite: false,
     },
     {
         id: 17,
@@ -118,6 +134,7 @@ const initialDetails = [
         name: "Savier Bump - Bumps",
         info: "Big drop ruff landing.",
         address: "331 SE Madison St #120, Portland, OR 97214, USA",
+        favorite: false,
     },
      
     {
@@ -126,6 +143,7 @@ const initialDetails = [
         name: "Shrunken Head - Skate Shops",
         info: "Skate Shop in SouthEast Portland",
         address: "531 SE Morrison St, Portland, OR 97214",
+        favorite: false,
     },
     {
         id: 19,
@@ -133,6 +151,7 @@ const initialDetails = [
         name: "Tactics - Skate Shops",
         info: "Open 10AM-8PM",
         address: "901 NW Davis St, Portland, OR 97209",
+        favorite: false,
     },
     {
         id: 20,
@@ -140,6 +159,7 @@ const initialDetails = [
         name: "WaterFront Hubba - Hubba Ledge",
         info: "Long 4 stair hubba.",
         address: "Bill Naito Legacy Fountain, 2 SW Naito Pkwy, Portland, OR 97204, USA",
+        favorite: false,
     },
     {
         id: 21,
@@ -147,6 +167,7 @@ const initialDetails = [
         name: "Zoo Bomb Gap - Flat Gap",
         info: "Down hill flat gap.",
         address: "2670 SW Tichner Dr, Portland, OR 97205, USA",
+        favorite: false,
     },
     {
         id: 22,
@@ -154,6 +175,7 @@ const initialDetails = [
         name: "Lent Planters - Ledges",
         info: "Multiple small planter ledges.",
         address: "5105 SE 97th Ave, Portland, OR 97266, USA",
+        favorite: false,
     },
     {
         id: 23,
@@ -161,6 +183,7 @@ const initialDetails = [
         name: "Hump Ledges - Ledges",
         info: "Long wavy ledges.",
         address: "810 SE Belmont St #100, Portland, OR 97214, USA",
+        favorite: false,
     },
     {
         id: 24,
@@ -168,6 +191,7 @@ const initialDetails = [
         name: "Bank Rail - Banks / Rails",
         info: "Bank to Rail",
         address: "4341 SW View Point Terrace, Portland, OR 97239, USA",
+        favorite: false,
     },
     {
         id: 25,
@@ -175,6 +199,7 @@ const initialDetails = [
         name: "Ed Benedict - Skate Parks",
         info: "Ledges rails and stairs.",
         address: "10125 SE Powell Blvd, Portland, OR 97266",
+        favorite: false,
     },
     {
         id: 26,
@@ -182,6 +207,7 @@ const initialDetails = [
         name: "Bank to Bank Gap - DIY Bank",
         info: "Two DIY Banks with a gap in the middle.",
         address: "706 OR-99E, Portland, OR 97214, USA",
+        favorite: false,
     },
     {
         id: 27,
@@ -189,6 +215,7 @@ const initialDetails = [
         name: "Larrabee Barrier - Banks / Barriers",
         info: "Larrabee DIY Barrier.",
         address: "2399 N Harding Ave, Portland, OR 97227, USA",
+        favorite: false,
     },
     {
         id: 28,
@@ -196,6 +223,7 @@ const initialDetails = [
         name: "Block 17 - Stair",
         info: "10 to 12 stair with a slanted landing.",
         address: "1315 NW 11th Ave, Portland, OR 97209, USA",
+        favorite: false,
     },
     {
         id: 29,
@@ -203,6 +231,7 @@ const initialDetails = [
         name: "Catholic Church 6 - Stairs / Rails",
         info: "6 Stair Rail",
         address: "3400 SE 43rd Ave, Portland, OR 97206, USA",
+        favorite: false,
     },
     {
         id: 30,
@@ -210,6 +239,7 @@ const initialDetails = [
         name: "Madison Rail - Rails",
         info: "21 Stair Rail",
         address: "226 SE Madison St, Portland, OR 97214, USA",
+        favorite: false,
     },
     {
         id: 31,
@@ -217,6 +247,7 @@ const initialDetails = [
         name: "Christ Church 9 - Rails",
         info: "Long 9 stair rail.",
         address: "1060 Chandler Rd, Lake Oswego, OR 97034, USA",
+        favorite: false,
     },
     {
         id: 32,
@@ -224,6 +255,7 @@ const initialDetails = [
         name: "Woodland Rail - Flat Bars / Rails",
         info: "Pop out flat bar.",
         address: "1914 NE 102nd Ave, Portland, OR 97220, USA",
+        favorite: false,
     },
     {
         id: 33,
@@ -231,6 +263,7 @@ const initialDetails = [
         name: "Curb Curve Ledge - Ledges",
         info: "Curb ledge over dirt.",
         address: "1964 SE 30th Ave, Portland, OR 97214, USA",
+        favorite: false,
     },
     {
         id: 34,
@@ -238,6 +271,7 @@ const initialDetails = [
         name: "Comfort Suites 8 - Stairs / Rails",
         info: "8 stair rail perfact for skating over.",
         address: "11340 SW 60th Ave, Portland, OR 97219, USA",
+        favorite: false,
     },
     {
         id: 35,
@@ -245,6 +279,7 @@ const initialDetails = [
         name: "Cascade ledges - Ledges",
         info: "Cascade College Ledges",
         address: "705 N Killingsworth St, Portland, OR 97217, USA",
+        favorite: false,
     },
     {
         id: 36,
@@ -252,6 +287,7 @@ const initialDetails = [
         name: "Newberg - Skate Parks",
         info: "Great transition park",
         address: "1201 S Blaine St, Newberg, OR 97132",
+        favorite: false,
     },
      {
         id: 37,
@@ -259,6 +295,7 @@ const initialDetails = [
         name: "8 Stair - Rail / Stairs",
         info: "8 Stair rail.",
         address: "13 SE 2nd Ave, Portland, OR 97214, USA",
+        favorite: false,
     },
      {
         id: 38,
@@ -266,6 +303,7 @@ const initialDetails = [
         name: "Square Ledges - Ledges",
         info: "Three square ledges.",
         address: "1510 SW 6th Ave, Portland, OR 97201, USA",
+        favorite: false,
     },
      {
         id: 39,
@@ -273,6 +311,7 @@ const initialDetails = [
         name: "St. Clair 5 - Rails",
         info: "St. Clair 5 stair rail.",
         address: "SW Park Pl & Vista, Portland, OR 97205, USA",
+        favorite: false,
     },
      {
         id: 40,
@@ -280,6 +319,7 @@ const initialDetails = [
         name: "PCC Education Building - Ledges",
         info: "Public Services Education Building ledge.",
         address: "909 N Killingsworth St, Portland, OR 97217, USA",
+        favorite: false,
     },
      {
         id: 41,
@@ -287,6 +327,7 @@ const initialDetails = [
         name: "Pettygrove Park - Gap / Barrier",
         info: "It is a barrier to drop in the middle of the park.",
         address: "200 SW Pedestrian Trail, Portland, OR 97201, USA",
+        favorite: false,
     },
     {
         id: 42,
@@ -294,6 +335,7 @@ const initialDetails = [
         name: "Lincoln High 10 - Stairs / Rails",
         info: "Ten stair at Lincoln high school.",
         address: "Lincoln High School, Portland, OR 97201, USA" ,
+        favorite: false,
     },
     {
         id: 43,
@@ -301,6 +343,7 @@ const initialDetails = [
         name: "Tualatin Park - Skate Parks",
         info: "Fun park, everything is small and easy to skate.",
         address: "8515-8523 SW Tualatin Rd, Tualatin, OR 97062, United States",
+        favorite: false,
     },
     {
         id: 44,
@@ -308,6 +351,7 @@ const initialDetails = [
         name: "Substunce - Skate Shops",
         info: "Skate shop in Beaverton.",
         address: "9950 SW Beaverton Hillsdale Hwy, Beaverton, OR 97005",
+        favorite: false,
     },
     {
         id: 45,
@@ -315,6 +359,7 @@ const initialDetails = [
         name: "Esplanade - Ledges",
         info: "Long over dirt gap ledge.",
         address: "35 SE Main St, Portland, OR 97214",
+        favorite: false,
     },
     {
         id: 46,
@@ -322,6 +367,7 @@ const initialDetails = [
         name: "Esplanade Up Ledge - Ledges",
         info: "Steep up ledge very hard to skate.",
         address: "35 SE Main St, Portland, OR 97214",
+        favorite: false,
     },
     {
         id: 47,
@@ -329,6 +375,7 @@ const initialDetails = [
         name: "Esplanade Pad - Manual Pads",
         info: "Long curb high manual pad. Good spot to warm up.",
         address: "35 SE Main St, Portland, OR 97214",
+        favorite: false,
     },
     {
         id: 48,
@@ -336,6 +383,7 @@ const initialDetails = [
         name: "Powell - Ledges",
         info: "Up Ledge on side of street.",
         address: "SE 19th and SE Powell Blvd",
+        favorite: false,
     },
     {
         id: 49,
@@ -343,6 +391,7 @@ const initialDetails = [
         name: "Glenhaven - Skate Parks",
         info: "Fun park with a little bit of everything.",
         address: "7900 NE Siskiyou St, Portland, OR, 97213",
+        favorite: false,
     },
     {
         id: 50,
@@ -350,6 +399,7 @@ const initialDetails = [
         name: "Pier Park - Skate Parks",
         info: "Skate park with a good varity.",
         address: "10421 N. Lombard Street, Portland, Oregon, 97203",
+        favorite: false,
     },
     {
         id: 51,
@@ -357,6 +407,7 @@ const initialDetails = [
         name: "Gateway - Skate Parks",
         info: "Transition park with a street section.",
         address: "10520 NE Halsey St, Portland, OR 97220",
+        favorite: false,
     },
     {
         id: 52,
@@ -364,6 +415,7 @@ const initialDetails = [
         name: "The Courts - Skate Parks / DIY",
         info: "Local DIY Spot in tennis courts. It constently growing and changing.",
         address: "1948 SW Broadway, Portland, OR 97201",
+        favorite: false,
     },
     // {
     //     id: ,
