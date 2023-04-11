@@ -3,18 +3,18 @@
 import React from 'react';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCopy, faMapLocationDot, faBookmark } from '@fortawesome/free-solid-svg-icons'
+import { faCopy, faMapLocationDot } from '@fortawesome/free-solid-svg-icons'
 
 
 const pin = <FontAwesomeIcon icon={faMapLocationDot} className='pinicon' />
 const copyPin = <FontAwesomeIcon icon={faCopy} />
-const favicon = <FontAwesomeIcon size='2x' icon={faBookmark} />
+// const favicon = <FontAwesomeIcon size='2x' icon={faBookmark} />
 
 
 function Card({person}) {
   return(
     <div className="spots-container">
-      <div className='favicon'>{favicon}</div>
+      {/* <div className='favicon'>{favicon}</div> */}
       
       <div className='column2'>
       <img className="spot-img" alt={person.name} src={process.env.PUBLIC_URL + person.imgPath} />
