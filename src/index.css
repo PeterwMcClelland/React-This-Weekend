@@ -63,7 +63,7 @@ body {
     border: 1px solid white;
     text-align: center;
     perspective-origin: center;
-    background-color: rgba(211, 211, 211, 0.4);
+    background-color: rgb(106 97 88 / 85%);;
     
 }
 
@@ -87,7 +87,7 @@ body {
 } 
 
 .copypin:hover {
-  color: rgb(75, 107, 1);
+  color: rgb(14, 110, 15);
 }
 
 .copypin {
