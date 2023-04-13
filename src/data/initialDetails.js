@@ -417,13 +417,7 @@ const initialDetails = [
         address: "1948 SW Broadway, Portland, OR 97201",
         favorite: false,
     },
-    // {
-    //     id: ,
-    //     imgPath: "./assets/img/",
-    //     name: "",
-    //     info: "",
-    //     address: "",
-    // },
+    
 ];
 
 
