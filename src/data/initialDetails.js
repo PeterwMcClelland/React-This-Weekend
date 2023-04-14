@@ -4,7 +4,6 @@ const initialDetails = [
         id: 1,
         imgPath: "./assets/img/calspharmacy.png",
         name: "Cal's Pharmacy - Skate Shops",
-        // info: "https://calspharmacy.com/",
         address: "1400 E Burnside St, Portland, OR 97214",
         favorite: false,
     },
