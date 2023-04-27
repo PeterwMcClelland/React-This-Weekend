@@ -416,6 +416,14 @@ const initialDetails = [
         address: "1948 SW Broadway, Portland, OR 97201",
         favorite: false,
     },
+    {
+        id: 53,
+        imgPath: "",
+        name: "",
+        info: "",
+        address: "",
+        favorite: false,
+    }
     
 ];
 
