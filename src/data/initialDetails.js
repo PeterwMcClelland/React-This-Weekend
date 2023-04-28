@@ -404,7 +404,7 @@ const initialDetails = [
         id: 51,
         imgPath: "./assets/img/gatewaydiscovery.png",
         name: "Gateway - Skate Parks",
-        info: "Transition park with a street section.",
+        info: "Transition park with street section.",
         address: "10520 NE Halsey St, Portland, OR 97220",
         favorite: false,
     },
@@ -418,11 +418,11 @@ const initialDetails = [
     },
     {
         id: 53,
-        imgPath: "",
-        name: "",
-        info: "",
-        address: "",
-        favorite: false,
+        imgPath: "./assets/img/Tabor15.png",
+        name: "Tabor 15 - Rails",
+        info: "Steep 15 stair rail.",
+        address: "SE Salmon Way and, SE Park Dr, Portland, OR 97215, USA",
+        favorite: false
     }
     
 ];
