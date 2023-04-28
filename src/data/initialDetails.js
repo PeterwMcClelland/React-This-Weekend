@@ -423,7 +423,23 @@ const initialDetails = [
         info: "Steep 15 stair rail.",
         address: "SE Salmon Way and, SE Park Dr, Portland, OR 97215, USA",
         favorite: false
-    }
+    },
+    {
+        id: 54,
+        imgPath: "./assets/img/Mount Tabor park ledge.png",
+        name: "Tabor Park Ledges - Ledges",
+        info: "Crusty stair ledges at Tabor Park.",
+        address: "GC63+M2, Portland, OR 97215, USA",
+        favorite: false
+    },
+    // {
+    //     id: 55,
+    //     imgPath: "",
+    //     name: "",
+    //     info: "",
+    //     address: "",
+    //     favorite: false
+    // },
     
 ];
 
