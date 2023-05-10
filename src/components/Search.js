@@ -55,14 +55,7 @@ function Search({ details }) {
           onChange = {handleChange}
         />
 
-{/* <div className="dropdown">
-  <button className="dropbtn">City</button>
-  <div className="dropdown-content">
-    <a href="#Portland">Portland, OR</a>
-    <a href="#Austin">Austin, TX</a>
-    <a href="#LA">Los Angeles, CA</a>
-  </div>
-  </div> */}
+
       </div>
 
       
