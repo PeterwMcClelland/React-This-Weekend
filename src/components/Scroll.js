@@ -1,4 +1,3 @@
-// src/components/Scroll.js
 
 import React from 'react';
 

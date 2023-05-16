@@ -14,8 +14,7 @@ const copyPin = <FontAwesomeIcon icon={faCopy} />
 function Card({person}) {
   return(
     <div className="spots-container">
-      {/* <div className='favicon'>{favicon}</div> */}
-      
+    
       <div className='column2'>
       <img className="spot-img" alt={person.name} src={process.env.PUBLIC_URL + person.imgPath} />
       </div>
